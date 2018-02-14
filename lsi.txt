@@ -5,3 +5,16 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 LSI
 
+
+
+SAS3
+  The only known-good chip is the SAS 3008 and the most popular
+  card model is the LSI SAS 9300.
+  --Hardware_2016_R1e.pdf, p. 15
+
+
+Links
+=====
+LSI LOGIC SAS 9207-8i Storage Controller LSI00301
+8 internal 6 Gb/s SATA + SAS ports
+https://www.amazon.com/LSI-9207-8i-Storage-Controller-LSI00301/dp/B0085FT2JC
