@@ -5,3 +5,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 LSI related links
 
+
+Links
+=====
+LSI LOGIC SAS 9207-8i Storage Controller LSI00301
+price: $99.99 (amazon prime - Feb 14, 2018)
+https://www.amazon.com/LSI-9207-8i-Storage-Controller-LSI00301/dp/B0085FT2JC
