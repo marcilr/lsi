@@ -11,3 +11,24 @@ Links
 LSI LOGIC SAS 9207-8i Storage Controller LSI00301
 price: $99.99 (amazon prime - Feb 14, 2018)
 https://www.amazon.com/LSI-9207-8i-Storage-Controller-LSI00301/dp/B0085FT2JC
+
+LSI LSI00244 (9201-16i) PCI-Express 2.0 x8 SATA / SAS Host Bus
+Adapter Card, Single Pack--Avago Technologies
+o 4 x SFF-8087 mini-SAS
+o Up to 6Gb/s
+o Controller: LSI SAS2116
+NOTES:
+Does not come with the SFF-8087 mini-SAS cabling
+Using this card to control drives for a FreeNAS build
+and it works great with the FreeNAS drivers.      
+...
+ I would highly recommend this product to anyone who
+needs a lot of drives for a ZFS file system,
+particularly FreeNAS -- completely stable.
+--Jeffrey A., 1/28/2016 8:53:30 AM
+Inexpensive, No RAID, Just HBA.  Works great with FreeNAS.
+Worked right out of the box, no configuring necessary.
+--Scott S., 7/11/2015 11:57:22 AM
+price: $318.99 (newegg - Feb 14, 2018)
+Looks very nice!
+https://www.newegg.com/Product/Product.aspx?Item=N82E16816118142
