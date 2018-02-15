@@ -6,6 +6,36 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 LSI
 
 
+LSI is the best game in town for add-on storage controllers.
+Avoid their MegaRAID solutions and stick with their HBAs.
+You’ll see three generations of HBAs commonly available today.
+The oldest (and slowest) are the SAS 2008 based I/O controllers
+such as the 9211 or the very popular IBM M1015.  The next
+generation of these controllers was based on the 2308 which
+added PCI 3.0 support and increased CPU horsepower on the
+controller itself.  An example here is the 9207.  Both the 2008
+and 2308 based solutions are 6Gbps SAS parts.  The newest
+generation of controllers are 12Gbps parts such as the 9300.
+The FreeNAS driver for the 6 Gbps parts is based on version
+16 of the stock LSI driver with many enhancements that LSI
+never incorporated into their driver.  In addition, many of
+the changes after version 16 were specifically targeted at
+the Integrated RAID functionality that can be flashed onto
+these cards.  As a result, “upgrading” the driver manually
+to the newer versions found on the LSI website can actually
+result in downgrading its reliability or performance.  I
+highly recommend running version 16 firmware on these cards.
+It’s the configuration tested by LSI, and it’s the
+configuration tested by the FreeNAS developers.  Running
+newer firmware should work, however running older firmware
+is not recommended or supported as there are known flaws
+that can occur by running the FreeNAS driver against a
+controller with an older firmware.  FreeNAS will warn you
+if the firmware on an HBA is incompatible with the driver.
+Heed this warning or data loss can occur.  The newer 12Gbps
+parts use version 5 of the LSI driver.  Cards using this
+driver should use version 5 of the firmware.
+--freenas.org/
 
 SAS3
   The only known-good chip is the SAS 3008 and the most popular
@@ -13,8 +43,22 @@ SAS3
   --Hardware_2016_R1e.pdf, p. 15
 
 
+Filelist
+========
+Hardware_2016_R1e.pdf (826.2KB)
+  Hardware 2016 R1e.pdf ===> Hardware_2016_R1e.pdf
+  FreeNAS Hardware Recommendations Guide Rev 1e) 2017-05-06
+  Community hardware recommendations for FreeNAS servers,
+  oriented towards new users.
+  https://forums.freenas.org/index.php?resources/hardware-recommendations-guide.12/
+
+
 Links
 =====
+A Complete Guide to FreeNAS Hardware Design, Part II: Hardware Specifics
+Feb 5, 2015 | FreeNAS | 21 comments
+http://www.freenas.org/blog/a-complete-guide-to-freenas-hardware-design-part-ii-hardware-specifics/
+
 LSI LOGIC SAS 9207-8i Storage Controller LSI00301
 8 internal 6 Gb/s SATA + SAS ports
 https://www.amazon.com/LSI-9207-8i-Storage-Controller-LSI00301/dp/B0085FT2JC
