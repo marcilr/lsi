@@ -8,11 +8,7 @@ LSI related links
 
 Links
 =====
-LSI LOGIC SAS 9207-8i Storage Controller LSI00301
-price: $99.99 (amazon prime - Feb 14, 2018)
-https://www.amazon.com/LSI-9207-8i-Storage-Controller-LSI00301/dp/B0085FT2JC
-
-LSI LSI00244 (9201-16i) PCI-Express 2.0 x8 SATA / SAS Host Bus
+LSI LSI00244 (9201-16i) PCI-Express 2.0 x8 SATA / SAS Host Bus   <===
 Adapter Card, Single Pack--Avago Technologies
 o 4 x SFF-8087 mini-SAS
 o Up to 6Gb/s
@@ -32,3 +28,20 @@ Worked right out of the box, no configuring necessary.
 price: $318.99 (newegg - Feb 14, 2018)
 Looks very nice!
 https://www.newegg.com/Product/Product.aspx?Item=N82E16816118142
+
+LSI LOGIC SAS 9207-8i Storage Controller LSI00301
+price: $99.99 (amazon prime - Feb 14, 2018)
+NOTES:
+o Host Bus Adapter card shipped in IT mode with firmware 20.00.02.00
+  All I had to do was update the firmware to 20.00.07.00 to use with FreeNAS version 11
+  The newer chipset runs on PCIe 3.0 which is supported on my X11SSM-F motherboard.
+--David R., 6/25/2017 5:49:13 PM
+https://www.amazon.com/LSI-9207-8i-Storage-Controller-LSI00301/dp/B0085FT2JC
+
+
+LSI LSI00301 (9207-8i) PCI-Express 3.0 x8 Low Profile SATA / SAS
+Host Controller Card--Avago Technologies
+o 2 x SFF-8087 mini-SAS Internal Connectors
+o Up to 6Gb/s
+price: $208.89 (newegg - Feb 14, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16816118182
