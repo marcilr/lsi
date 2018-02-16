@@ -31,6 +31,13 @@ https://www.newegg.com/Product/Product.aspx?Item=N82E16816118142
 
 LSI LSI00301 (9207-8i) PCI-Express 3.0
 x8 Low Profile SATA / SAS Host Controller Card--Avago Technologies
+o 8 internal 6Gb/s SAS+SATA ports
+o 8 lanes, PCI Express 3.0
+o Low profile form factor design
+o Two x4 internal mini-SAS connectors (SFF8087)
+o SAS 2308 6Gb/s SAS+SATA Controller
+o Supports up to 256 SAS or SATA end devices
+o Supports SSDs, HDDs and tape drive
 o Two SFF8087 connectors can be expanded into eight SAS/SATA ports
   (via breakout cables, sold separately) with 6Gbps bandwidth per
   port, and eight lanes of PCI Express (PCIe) 3.0, each lane with
