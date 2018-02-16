@@ -29,6 +29,24 @@ price: $318.99 (newegg - Feb 14, 2018)
 Looks very nice!
 https://www.newegg.com/Product/Product.aspx?Item=N82E16816118142
 
+LSI LSI00301 (9207-8i) PCI-Express 3.0
+x8 Low Profile SATA / SAS Host Controller Card--Avago Technologies
+o Two SFF8087 connectors can be expanded into eight SAS/SATA ports
+  (via breakout cables, sold separately) with 6Gbps bandwidth per
+  port, and eight lanes of PCI Express (PCIe) 3.0, each lane with
+  8Gbps performance, match the specs of SATA channel and eliminate
+  any performance bottlenecks.
+o This card is based on the SAS 2308 6Gbps SAS IO Controller that
+  highly integrates the latest enhancements in PCIe and SAS
+  technology.  An outstanding balance of affordability, performance
+  and internal scalability, the SAS 9207-8i HBA is a great solution
+  for mid-range server storage applications such as tiered storage
+  and backup and recovery.
+o Worked great out of the box with FreeNAS 9.3 and FreeNAS 11.
+o Fast, works with FreeBSD 10
+price: $208.89 (newg - Feb 16, 2018)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16816118182
+
 LSI LOGIC SAS 9207-8i Storage Controller LSI00301
 price: $99.99 (amazon prime - Feb 14, 2018)
 NOTES:
