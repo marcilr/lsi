@@ -1,0 +1,26 @@
+LSI00344.txt
+Created Mon Feb 19 14:38:22 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+LSI Logic LSI00344 9300-8i SGL SAS 8Port 12Gb/s PCIE3.0
+
+o Eight ports of 12Gb/s SAS + SATA ports
+o Eight lanes of PCI Express 3.0
+o Low-profile form factor
+o Mini-SAS HD connectors
+o LSI SAS 3008 12Gb/s SAS+SATA controller
+o Supports SSDs, HDDs, and tape drives
+o Provides connectivity in a low-profile form factor
+o 8 lanes of PCI Express 3.0 provides fast signaling for high bandwidth applications
+o High performance with 12Gb/s SAS data transfer rates
+price: $331.61 & FREE shipping
+
+
+Links
+=====
+LSI Logic LSI00344 9300-8i SGL SAS 8Port 12Gb/s PCIE3.0
+HBA Controller Card Brown Box OEM
+price: $334.15
+https://www.amazon.com/Logic-LSI00344-9300-8i-PCIE3-0-Controller/dp/B00PH9VG8Y
+
