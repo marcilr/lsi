@@ -8,6 +8,13 @@ LSI related links
 
 Links
 =====
+Flashing IT Firmware to the LSI SAS9211-8i HBA
+Feb 4th, 2012
+In the process of upgrading my storage server, I wanted to upgrade the firmware
+on my recently acquired LSI SAS9211-8i SAS/SATA 6Gb/s PCI Express card to the
+latest IT version rather than the IR version it ships with.
+http://brycv.com/blog/2012/flashing-it-firmware-to-lsi-sas9211-8i/
+
 LSI LSI00244 (9201-16i) PCI-Express 2.0 x8 SATA / SAS Host Bus   <===
 Adapter Card, Single Pack--Avago Technologies
 o 4 x SFF-8087 mini-SAS
