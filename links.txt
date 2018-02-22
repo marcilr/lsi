@@ -8,6 +8,14 @@ LSI related links
 
 Links
 =====
+Broadcom
+RAID Controller Cards
+NOTE: On May 6, 2014, LSI Corporation was acquired by Broadcom
+Limited, formerly Avago Technologies for $6.6 billion.
+--https://en.wikipedia.org/wiki/LSI_Corporation
+--http://www.financialstrend.com/avago-technologies-limited-nasdaqavgo-moves-forward-with-lsi-deal-12077.html
+https://www.broadcom.com/products/storage/raid-controllers/
+
 Flashing IT Firmware to the LSI SAS9211-8i HBA
 Feb 4th, 2012
 In the process of upgrading my storage server, I wanted to upgrade the firmware
