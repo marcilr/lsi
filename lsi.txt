@@ -5,6 +5,18 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 LSI
 
+LSI Corporation was an American company based in San Jose,
+California which designed semiconductors and software that
+accelerate storage and networking in data centers, mobile
+networks and client computing.[2][3][4]
+
+On May 6, 2014, LSI Corporation was acquired by Broadcom
+Limited, formerly Avago Technologies for $6.6 billion.[5]
+LSI Stockholders voted in favor of the proposal in
+April 2014, merging the company into its parent, and
+continuing with the LSI brand.
+--wikipedia.org/
+
 
 LSI is the best game in town for add-on storage controllers.
 Avoid their MegaRAID solutions and stick with their HBAs.
@@ -55,9 +67,28 @@ Hardware_2016_R1e.pdf (826.2KB)
 
 Links
 =====
+[2] Laurie J. Flynn (March 27, 2001). "Technology Briefing: Deals;
+    LSI Logic To Buy C-Cube Microsystems". The New York Times.
+    Retrieved October 20, 2013.
+    https://query.nytimes.com/gst/fullpage.html?res=9C00E6DB1E3CF934A15750C0A9679C8B63
+
+[3] "LSI Launches New Nytro PCIe Product Line". eWeek. Retrieved 28 January 2014.
+    http://www.eweek.com/c/a/Data-Storage/LSI-Launches-New-Nytro-PCIe-Product-Line-860833/
+  
+[4] "LSI CEO on Defying the Tech Sector". CNBC. Retrieved 28 January 2014.
+    https://www.cnbc.com/id/47536644
+
+[5] Hyde, Jennifer (8 January 2014). "Avago Technologies Limited (NASDAQ:AVGO)
+    Moves Forward With LSI Deal". Financials Trend. Retrieved 28 January 2014.
+    http://www.financialstrend.com/avago-technologies-limited-nasdaqavgo-moves-forward-with-lsi-deal-12077.html
+
 A Complete Guide to FreeNAS Hardware Design, Part II: Hardware Specifics
 Feb 5, 2015 | FreeNAS | 21 comments
 http://www.freenas.org/blog/a-complete-guide-to-freenas-hardware-design-part-ii-hardware-specifics/
+
+LSI Corporation
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/LSI_Corporation
 
 LSI LOGIC SAS 9207-8i Storage Controller LSI00301
 8 internal 6 Gb/s SATA + SAS ports
