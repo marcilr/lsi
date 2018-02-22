@@ -11,6 +11,11 @@ links.txt
 lsi.txt
   LSI
 
+LSI00244/
+  LSI00244 (9201-16i) PCI-Express 2.0 x8 16Port 6Gb/s SATA/SAS controller card
+  https://www.newegg.com/Product/Product.aspx?Item=N82E16816118142
+  https://www.amazon.com/LSI-Logic-LSI00244-9201-16i-Controller/dp/B00EGSDKJ0
+
 LSI00344.txt
   LSI Logic LSI00344 9300-8i SGL SAS 8 Port 12Gb/s PCIE3.0
   Fine looks LSI SAS/SATAS card
