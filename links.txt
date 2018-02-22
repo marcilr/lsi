@@ -8,6 +8,11 @@ LSI related links
 
 Links
 =====
+6Gb/s SATA + SAS RAID
+NOTE: Do not see LSI00244 (9201-16i) here
+      Only see the MegarRAID cards with higher port counts
+https://www.broadcom.com/products/storage/raid-controllers/#tab-span3
+
 Broadcom
 RAID Controller Cards
 NOTE: On May 6, 2014, LSI Corporation was acquired by Broadcom
